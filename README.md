@@ -44,10 +44,7 @@ A Weather Data Storage System designed to systematically collect, store, and man
 
 # Author
 
-Kartikeya Drall
-
-2401720014
-
-B.Sc (H) Computer Science
-
-Data Structure Theory Assignment-1
+* Kartikeya Drall
+* 2401720014
+* B.Sc (H) Computer Science
+* Data Structure Theory Assignment-1
